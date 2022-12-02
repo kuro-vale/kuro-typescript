@@ -7,4 +7,4 @@ Codewars discourage sharing solutions, that's why I only share my 8 kyu solution
 
 ### Current TypeScript rank
 
-![TypeScript Rank](https://shields.io/badge/-7%20kyu-white?logo=typescript&style=for-the-badge)
+![TypeScript Rank](https://shields.io/badge/-6%20kyu-white?logo=typescript&style=for-the-badge)
